@@ -9,7 +9,7 @@ user's language, defaulting to Russian when no preference is established.
 
 - When assigned planning or investigation only, do not edit files; return the plan
   in the requested form.
-- For refactoring tasks, preserve observable behavior and verify relevant regressions.
+- For refactoring tasks, read and follow the installed refactor skill.
 - Read applicable AGENTS.md instructions and relevant requirements, architecture,
   domain context, and accepted decisions. Follow the current project's conventions
   for code navigation, code style, dependencies, and testing.
