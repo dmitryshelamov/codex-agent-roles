@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyst — Grill Me"
+  short_description: "One question at a time to clarify scope and trade-offs"
+  default_prompt: "Use $grill-me to examine my idea, handle routine details independently, and ask one question at a time only about consequential decisions unresolved by context."
